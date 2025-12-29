@@ -69,7 +69,13 @@
 
 ## 📊 GitHub Analytics
 
-Integrated via GitHub Readme Stats
+<div align="center">
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=yashgupta0856&show_icons=true&count_private=true&theme=tokyonight" />
+
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta0856&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
