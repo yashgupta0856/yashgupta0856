@@ -69,13 +69,8 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgupta0856&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgupta0856&theme=tokyo-night"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta0856&layout=compact&theme=tokyonight" />
-</p>
 
 
 ---
