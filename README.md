@@ -69,13 +69,14 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=yashgupta0856&show_icons=true&count_private=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgupta0856&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
 
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta0856&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgupta0856&layout=compact&theme=tokyonight" />
+</p>
+
 
 ---
 
